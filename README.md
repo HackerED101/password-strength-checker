@@ -74,6 +74,6 @@ License
 This project is open-source and available under the MIT License.
 Author
 
-    Your Name (HackerED101)
+    (HackerED101)
 
-Feel free to contact me at your-email@example.com if you have any questions or suggestions!
+Feel free to contact me at hamzataufiq01.07@gmail.com if you have any questions or suggestions!
